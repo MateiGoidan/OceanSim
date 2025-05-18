@@ -9,9 +9,7 @@
 
 ## Description
 
-OceanSim is a real-time, physically based ocean surface for Unity.  
-The water is generated from a Fast Fourier Transform (FFT) height field driven by a Phillips spectrum.
-The simulation runs entirely on the CPU but is multi-threaded through Unity Jobs and Burst, and exposes utility functions for sampling height and normal so that boats or other rigid bodies can float convincingly on the dynamic surface.
+OceanSim is a real-time, physically based ocean surface for Unity. The water is generated from a Fast Fourier Transform (FFT) height field driven by a Phillips spectrum. The simulation runs entirely on the CPU but is multi-threaded through Unity Jobs and Burst, and exposes utility functions for sampling height and normal so that boats or other rigid bodies can float convincingly on the dynamic surface.
 
 ## Documentation
 
